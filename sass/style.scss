@@ -19,16 +19,22 @@
 /*                             components imports                             */
 /* -------------------------------------------------------------------------- */
 
+@import 'components/bg-video';
 @import 'components/button';
 @import 'components/card';
 @import 'components/composition';
 @import 'components/feature-box';
+@import 'components/form';
+@import 'components/story';
+@import 'components/popup';
 
 /* -------------------------------------------------------------------------- */
 /*                               layouts imports                              */
 /* -------------------------------------------------------------------------- */
 @import 'layouts/grid';
 @import 'layouts/header';
+@import 'layouts/footer';
+@import 'layouts/navigation';
 
 /* -------------------------------------------------------------------------- */
 /*                                pages imports                               */
